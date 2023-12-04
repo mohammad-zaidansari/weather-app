@@ -1,7 +1,12 @@
-# Weathe-App 
-# 1 
-eplace 'YOUR_API_KEY' in the JavaScript code with your actual OpenWeatherMap API key. You can obtain one by signing up on the OpenWeatherMap website.
-# 2
-This example uses the OpenWeatherMap API to fetch weather data. Ensure that your API key is kept secure and not exposed in client-side code for production applications.
-# 3
-This is a basic example, and for a production application, you may want to add error handling, loading indicators, and more features.
+# Weather App Website
+
+Welcome to the Weather App Website project! This web application provides real-time weather information using [openweathermap.org], a powerful weather data API.
+
+## Features
+
+- **Current Weather:** Get the latest information about the current weather conditions.
+- **Location-based:** Automatically fetch weather data based on the user's location.
+- **User-friendly Interface:** An intuitive and visually appealing design for a seamless user experience.
+
+## Getting Started
+Write your city name in input box and the API's fatch data and return current weather condition.
