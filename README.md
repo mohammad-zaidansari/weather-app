@@ -11,5 +11,5 @@ Welcome to the Weather App Website project! This web application provides real-t
 ## Getting Started
 Write your city name in input box and the API's fatch data and return current weather condition.
 
-## Visit Webpage
-### https://mzaidansari712.github.io/weather-app/
+### Visit Webpage
+https://mzaidansari712.github.io/weather-app/
